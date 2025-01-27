@@ -1,0 +1,39 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clothes Size Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Clothes Size Prediction</h1>        
+        {% if success is not none %}
+            {% if success %}
+                <div class="alert success">Prediction made successfully!</div>
+                <div class="result">Predicted Size: {{ predicted_size }}</div>
+            {% else %}
+            {% endif %}
+        {% endif %}
+        
+        <form action="{{ url_for('predict') }}" method="POST">
+            <div>
+                <label for="weight">Weight (kg):</label>
+                <input type="text" name="weight" required>
+            </div><br>
+            <div>
+                <label for="age">Age (years):</label>
+                <input type="text" name="age" required>
+            </div><br>
+            <div>
+                <label for="height">Height (cm):</label>
+                <input type="text" name="height" required>
+            </div><br>
+            <button type="submit" class="btn">Predict Size</button>
+        </form>
+    </div>
+</body>
+</html>

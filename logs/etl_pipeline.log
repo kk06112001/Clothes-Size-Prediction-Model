@@ -1,0 +1,85 @@
+2025-01-26 20:35:59,827 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 20:35:59,827 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 20:35:59,853 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:36:02,973 - WARNING -  * Debugger is active!
+2025-01-26 20:36:03,033 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:36:03,215 - INFO - 127.0.0.1 - - [26/Jan/2025 20:36:03] "GET / HTTP/1.1" 200 -
+2025-01-26 20:36:03,442 - INFO - 127.0.0.1 - - [26/Jan/2025 20:36:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:36:11,123 - ERROR - Prediction failed: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:36:11,123 - INFO - 127.0.0.1 - - [26/Jan/2025 20:36:11] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2025-01-26 20:36:11,131 - INFO - 127.0.0.1 - - [26/Jan/2025 20:36:11] "GET /?success=False&error_message=[Errno+2]+No+such+file+or+directory:+'model.pkl' HTTP/1.1" 200 -
+2025-01-26 20:36:11,173 - INFO - 127.0.0.1 - - [26/Jan/2025 20:36:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:37:18,945 - ERROR - Prediction failed: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:37:18,945 - INFO - 127.0.0.1 - - [26/Jan/2025 20:37:18] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2025-01-26 20:37:18,949 - INFO - 127.0.0.1 - - [26/Jan/2025 20:37:18] "GET /?success=False&error_message=[Errno+2]+No+such+file+or+directory:+'model.pkl' HTTP/1.1" 200 -
+2025-01-26 20:37:18,969 - INFO - 127.0.0.1 - - [26/Jan/2025 20:37:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:38:02,378 - INFO -  * Detected change in 'C:\\Users\\kk061\\OneDrive\\Desktop\\python\\CLOTHES SIZE PREDICTION ETL\\app.py', reloading
+2025-01-26 20:38:02,378 - INFO -  * Detected change in 'c:\\users\\kk061\\onedrive\\desktop\\python\\clothes size prediction etl\\app.py', reloading
+2025-01-26 20:38:02,378 - INFO -  * Detected change in 'C:\\Users\\kk061\\OneDrive\\Desktop\\python\\CLOTHES SIZE PREDICTION ETL\\app.py', reloading
+2025-01-26 20:38:02,378 - INFO -  * Detected change in 'c:\\users\\kk061\\onedrive\\desktop\\python\\clothes size prediction etl\\app.py', reloading
+2025-01-26 20:38:02,394 - INFO -  * Detected change in 'C:\\Users\\kk061\\OneDrive\\Desktop\\python\\CLOTHES SIZE PREDICTION ETL\\app.py', reloading
+2025-01-26 20:38:03,485 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:38:15,044 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 20:38:15,044 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 20:38:15,066 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:38:18,110 - WARNING -  * Debugger is active!
+2025-01-26 20:38:18,152 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:38:18,226 - INFO - 127.0.0.1 - - [26/Jan/2025 20:38:18] "GET / HTTP/1.1" 200 -
+2025-01-26 20:38:18,349 - INFO - 127.0.0.1 - - [26/Jan/2025 20:38:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:38:50,839 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 20:38:50,839 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 20:38:50,860 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:38:53,868 - WARNING -  * Debugger is active!
+2025-01-26 20:38:53,928 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:38:54,000 - INFO - 127.0.0.1 - - [26/Jan/2025 20:38:54] "GET / HTTP/1.1" 200 -
+2025-01-26 20:38:54,107 - INFO - 127.0.0.1 - - [26/Jan/2025 20:38:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:39:04,046 - ERROR - Prediction failed: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:39:04,054 - INFO - 127.0.0.1 - - [26/Jan/2025 20:39:04] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2025-01-26 20:39:04,056 - INFO - 127.0.0.1 - - [26/Jan/2025 20:39:04] "GET /?success=False&error_message=[Errno+2]+No+such+file+or+directory:+'model.pkl' HTTP/1.1" 200 -
+2025-01-26 20:39:04,090 - INFO - 127.0.0.1 - - [26/Jan/2025 20:39:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:43:00,352 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 20:43:00,352 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 20:43:00,377 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:43:03,155 - WARNING -  * Debugger is active!
+2025-01-26 20:43:03,184 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:43:06,982 - INFO - 127.0.0.1 - - [26/Jan/2025 20:43:06] "GET / HTTP/1.1" 200 -
+2025-01-26 20:43:07,232 - INFO - 127.0.0.1 - - [26/Jan/2025 20:43:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:43:16,742 - INFO -  * Detected change in 'C:\\Users\\kk061\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py', reloading
+2025-01-26 20:43:17,709 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:43:21,060 - WARNING -  * Debugger is active!
+2025-01-26 20:43:21,107 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:43:21,504 - ERROR - Prediction failed: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:43:21,504 - INFO - 127.0.0.1 - - [26/Jan/2025 20:43:21] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2025-01-26 20:43:21,512 - INFO - 127.0.0.1 - - [26/Jan/2025 20:43:21] "GET /?success=False&error_message=[Errno+2]+No+such+file+or+directory:+'model.pkl' HTTP/1.1" 200 -
+2025-01-26 20:43:21,628 - INFO - 127.0.0.1 - - [26/Jan/2025 20:43:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:46:11,893 - INFO -  * Detected change in 'C:\\Users\\kk061\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\handlers.py', reloading
+2025-01-26 20:46:12,891 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:50:28,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 20:50:28,234 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 20:50:28,263 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:50:30,982 - WARNING -  * Debugger is active!
+2025-01-26 20:50:31,026 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:50:32,950 - INFO - 127.0.0.1 - - [26/Jan/2025 20:50:32] "GET / HTTP/1.1" 200 -
+2025-01-26 20:50:33,183 - INFO - 127.0.0.1 - - [26/Jan/2025 20:50:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:50:42,801 - ERROR - Error loading model: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:50:42,805 - ERROR - Error during model prediction: Error loading model: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:50:42,806 - ERROR - Prediction failed: Error during model prediction: Error loading model: [Errno 2] No such file or directory: 'model.pkl'
+2025-01-26 20:50:42,810 - INFO - 127.0.0.1 - - [26/Jan/2025 20:50:42] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2025-01-26 20:50:42,816 - INFO - 127.0.0.1 - - [26/Jan/2025 20:50:42] "GET /?success=False&error_message=Error+during+model+prediction:+Error+loading+model:+[Errno+2]+No+such+file+or+directory:+'model.pkl' HTTP/1.1" 200 -
+2025-01-26 20:50:42,849 - INFO - 127.0.0.1 - - [26/Jan/2025 20:50:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-01-26 20:51:55,771 - INFO -  * Detected change in 'C:\\Users\\kk061\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\linear_model\\_logistic.py', reloading
+2025-01-26 20:51:56,091 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-26 20:51:59,057 - WARNING -  * Debugger is active!
+2025-01-26 20:51:59,089 - INFO -  * Debugger PIN: 122-116-073
+2025-01-26 20:52:12,294 - INFO -  * Detected change in 'C:\\Users\\kk061\\OneDrive\\Desktop\\python\\CLOTHES SIZE PREDICTION ETL\\etl_pipeline\\model_trainer.py', reloading
+2025-01-26 20:52:12,294 - INFO -  * Detected change in 'c:\\users\\kk061\\onedrive\\desktop\\python\\clothes size prediction etl\\etl_pipeline\\model_trainer.py', reloading
+2025-01-26 20:52:12,294 - INFO -  * Detected change in 'C:\\Users\\kk061\\OneDrive\\Desktop\\python\\CLOTHES SIZE PREDICTION ETL\\etl_pipeline\\model_trainer.py', reloading
+2025-01-26 20:52:12,303 - INFO -  * Detected change in 'c:\\users\\kk061\\onedrive\\desktop\\python\\clothes size prediction etl\\etl_pipeline\\model_trainer.py', reloading
+2025-01-26 20:52:12,304 - INFO -  * Detected change in 'C:\\Users\\kk061\\OneDrive\\Desktop\\python\\CLOTHES SIZE PREDICTION ETL\\etl_pipeline\\model_trainer.py', reloading
+2025-01-26 20:52:12,304 - INFO -  * Detected change in 'c:\\users\\kk061\\onedrive\\desktop\\python\\clothes size prediction etl\\etl_pipeline\\model_trainer.py', reloading
+2025-01-26 20:52:13,521 - INFO -  * Restarting with watchdog (windowsapi)

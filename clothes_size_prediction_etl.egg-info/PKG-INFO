@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: clothes-size-prediction-etl
+Version: 0.1
+Summary: An ETL pipeline to predict clothing sizes based on weight, age, and height
+Author: Kunal
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: matplotlib
+Requires-Dist: seaborn

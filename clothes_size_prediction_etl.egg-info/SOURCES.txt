@@ -1,0 +1,12 @@
+setup.py
+clothes_size_prediction_etl.egg-info/PKG-INFO
+clothes_size_prediction_etl.egg-info/SOURCES.txt
+clothes_size_prediction_etl.egg-info/dependency_links.txt
+clothes_size_prediction_etl.egg-info/requires.txt
+clothes_size_prediction_etl.egg-info/top_level.txt
+etl_pipeline/__init__.py
+etl_pipeline/data_ingestion.py
+etl_pipeline/data_transformation.py
+etl_pipeline/exceptions.py
+etl_pipeline/logging_config.py
+etl_pipeline/model_trainer.py
