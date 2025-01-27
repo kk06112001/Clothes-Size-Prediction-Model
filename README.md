@@ -1,0 +1,1 @@
+This repository contains the code for an ETL pipeline designed to process and prepare data for a clothing size prediction model. This is a very basic model that predicts clothes size based on weight, height and age.
